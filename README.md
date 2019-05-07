@@ -1,2 +1,0 @@
-# EntityFrameworkExamples
-Entity  Framework examples
